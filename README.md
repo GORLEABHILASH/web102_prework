@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [Yes] List anything else that you can get done to improve the app functionality!
 
 I have added Surprise me button which will display random game every time (from the given list of games)in a model whenever a user clicks on it
 
@@ -25,11 +25,7 @@ I have added Surprise me button which will display random game every time (from 
 
 Here's a walkthrough of implemented features:
 
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://codepathsaveegames.s3.us-east-1.amazonaws.com/Screen+Recording+2025-05-12+at+12.41.50%E2%80%AFAM.mp4)
-
 👉 [Click here to watch the video walkthrough](https://codepathsaveegames.s3.us-east-1.amazonaws.com/Screen+Recording+2025-05-12+at+12.41.50%E2%80%AFAM.mp4)
-
-
 
 
 ## Notes
@@ -40,7 +36,7 @@ I forgot some basics like DOM access like getting eventListeners and innerHTML e
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Abhilash Kumar Gorle]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
