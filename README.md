@@ -25,7 +25,10 @@ I have added Surprise me button which will display random game every time (from 
 
 Here's a walkthrough of implemented features:
 
-<img src='https://codepathsaveegames.s3.us-east-1.amazonaws.com/Screen+Recording+2025-05-12+at+12.41.50%E2%80%AFAM.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://codepathsaveegames.s3.us-east-1.amazonaws.com/Screen+Recording+2025-05-12+at+12.41.50%E2%80%AFAM.mp4)
+
+👉 [Click here to watch the video walkthrough](https://codepathsaveegames.s3.us-east-1.amazonaws.com/Screen+Recording+2025-05-12+at+12.41.50%E2%80%AFAM.mp4)
+
 
 
 
